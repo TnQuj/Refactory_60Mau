@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After_Remove_Assignments_to_Parameters_07", "After_Remove_Assignments_to_Parameters_07\After_Remove_Assignments_to_Parameters_07.csproj", "{40D5A98F-177B-45AC-A437-049F977AC1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before_Remove_Assignments_to_Parameters_07", "Before_Remove_Assignments_to_Parameters_07\Before_Remove_Assignments_to_Parameters_07.csproj", "{353F265C-0207-4759-A3AC-4ADF8EF9BEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D5A98F-177B-45AC-A437-049F977AC1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D5A98F-177B-45AC-A437-049F977AC1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D5A98F-177B-45AC-A437-049F977AC1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D5A98F-177B-45AC-A437-049F977AC1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353F265C-0207-4759-A3AC-4ADF8EF9BEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353F265C-0207-4759-A3AC-4ADF8EF9BEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353F265C-0207-4759-A3AC-4ADF8EF9BEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353F265C-0207-4759-A3AC-4ADF8EF9BEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A19AB8-7EE5-43D2-929D-588EA601F331}
+	EndGlobalSection
+EndGlobal
