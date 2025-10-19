@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\bin\Debug\net8.0\Parameterize Method before.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\bin\Debug\net8.0\Parameterize Method before.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\bin\Debug\net8.0\Parameterize Method before.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\bin\Debug\net8.0\Parameterize Method before.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\bin\Debug\net8.0\Parameterize Method before.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\Parameterize Method before.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\Parameterize Method before.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\Parameterize Method before.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\Parameterize Method before.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\Parameterize Method before.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\refint\Parameterize Method before.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\Parameterize Method before.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\Parameterize Method before.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method problem\obj\Debug\net8.0\ref\Parameterize Method before.dll

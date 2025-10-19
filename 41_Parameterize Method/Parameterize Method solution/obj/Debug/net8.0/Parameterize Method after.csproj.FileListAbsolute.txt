@@ -1,0 +1,4 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method solution\obj\Debug\net8.0\Parameterize Method after.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method solution\obj\Debug\net8.0\Parameterize Method after.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method solution\obj\Debug\net8.0\Parameterize Method after.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Parameterize Method solution\obj\Debug\net8.0\Parameterize Method after.csproj.CoreCompileInputs.cache
