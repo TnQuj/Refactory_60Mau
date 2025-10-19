@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Consolidate Conditional Expression solution/1.0.0": {
+        "runtime": {
+          "Consolidate Conditional Expression solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consolidate Conditional Expression solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

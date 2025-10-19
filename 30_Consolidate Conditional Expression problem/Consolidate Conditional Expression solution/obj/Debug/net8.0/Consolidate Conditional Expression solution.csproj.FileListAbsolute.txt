@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\bin\Debug\net8.0\Consolidate Conditional Expression solution.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\bin\Debug\net8.0\Consolidate Conditional Expression solution.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\bin\Debug\net8.0\Consolidate Conditional Expression solution.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\bin\Debug\net8.0\Consolidate Conditional Expression solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\bin\Debug\net8.0\Consolidate Conditional Expression solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\Consolidate Conditional Expression solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\Consolidate Conditional Expression solution.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\Consolidate Conditional Expression solution.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\Consolidate Conditional Expression solution.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\Consolidate Conditional Expression solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\refint\Consolidate Conditional Expression solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\Consolidate Conditional Expression solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\Consolidate Conditional Expression solution.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression solution\obj\Debug\net8.0\ref\Consolidate Conditional Expression solution.dll

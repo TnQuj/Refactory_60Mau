@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\bin\Debug\net8.0\Consolidate Conditional Expression problem.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\bin\Debug\net8.0\Consolidate Conditional Expression problem.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\bin\Debug\net8.0\Consolidate Conditional Expression problem.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\bin\Debug\net8.0\Consolidate Conditional Expression problem.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\bin\Debug\net8.0\Consolidate Conditional Expression problem.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\Consolidate Conditional Expression problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\Consolidate Conditional Expression problem.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\Consolidate Conditional Expression problem.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\Consolidate Conditional Expression problem.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\Consolidate Conditional Expression problem.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\refint\Consolidate Conditional Expression problem.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\Consolidate Conditional Expression problem.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\Consolidate Conditional Expression problem.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Consolidate Conditional Expression problem\obj\Debug\net8.0\ref\Consolidate Conditional Expression problem.dll
