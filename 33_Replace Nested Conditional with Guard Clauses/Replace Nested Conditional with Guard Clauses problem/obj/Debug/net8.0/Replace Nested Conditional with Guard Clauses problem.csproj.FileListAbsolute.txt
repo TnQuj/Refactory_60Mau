@@ -1,0 +1,4 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Replace Nested Conditional with Guard Clauses problem\obj\Debug\net8.0\Replace Nested Conditional with Guard Clauses problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Replace Nested Conditional with Guard Clauses problem\obj\Debug\net8.0\Replace Nested Conditional with Guard Clauses problem.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Replace Nested Conditional with Guard Clauses problem\obj\Debug\net8.0\Replace Nested Conditional with Guard Clauses problem.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Replace Nested Conditional with Guard Clauses problem\obj\Debug\net8.0\Replace Nested Conditional with Guard Clauses problem.csproj.CoreCompileInputs.cache
