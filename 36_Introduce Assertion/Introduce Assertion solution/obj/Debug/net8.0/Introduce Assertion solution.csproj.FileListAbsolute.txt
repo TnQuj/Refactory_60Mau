@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\bin\Debug\net8.0\Introduce Assertion solution.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\bin\Debug\net8.0\Introduce Assertion solution.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\bin\Debug\net8.0\Introduce Assertion solution.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\bin\Debug\net8.0\Introduce Assertion solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\bin\Debug\net8.0\Introduce Assertion solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\Introduce Assertion solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\Introduce Assertion solution.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\Introduce Assertion solution.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\Introduce Assertion solution.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\Introduce Assertion solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\refint\Introduce Assertion solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\Introduce Assertion solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\Introduce Assertion solution.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Assertion solution\obj\Debug\net8.0\ref\Introduce Assertion solution.dll

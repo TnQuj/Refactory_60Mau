@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\bin\Debug\net8.0\Introduce Null Object solution.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\bin\Debug\net8.0\Introduce Null Object solution.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\bin\Debug\net8.0\Introduce Null Object solution.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\bin\Debug\net8.0\Introduce Null Object solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\bin\Debug\net8.0\Introduce Null Object solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\Introduce Null Object solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\Introduce Null Object solution.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\Introduce Null Object solution.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\Introduce Null Object solution.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\Introduce Null Object solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\refint\Introduce Null Object solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\Introduce Null Object solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\Introduce Null Object solution.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Introduce Null Object solution\obj\Debug\net8.0\ref\Introduce Null Object solution.dll
