@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\bin\Debug\net8.0\Before Replace Exception with Test 22.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\bin\Debug\net8.0\Before Replace Exception with Test 22.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\bin\Debug\net8.0\Before Replace Exception with Test 22.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\bin\Debug\net8.0\Before Replace Exception with Test 22.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\bin\Debug\net8.0\Before Replace Exception with Test 22.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\Before Replace Exception with Test 22.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\Before Replace Exception with Test 22.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\Before Replace Exception with Test 22.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\Before Replace Exception with Test 22.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\Before Replace Exception with Test 22.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\refint\Before Replace Exception with Test 22.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\Before Replace Exception with Test 22.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\Before Replace Exception with Test 22.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Replace Exception with Test 22\obj\Debug\net8.0\ref\Before Replace Exception with Test 22.dll
