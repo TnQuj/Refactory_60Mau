@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Before Preserve Whole Object 15/1.0.0": {
+        "runtime": {
+          "Before Preserve Whole Object 15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Before Preserve Whole Object 15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
