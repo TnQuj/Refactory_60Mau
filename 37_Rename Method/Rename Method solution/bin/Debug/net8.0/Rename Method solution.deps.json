@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rename Method solution/1.0.0": {
+        "runtime": {
+          "Rename Method solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rename Method solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

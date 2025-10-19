@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\bin\Debug\net8.0\Rename Method problem.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\bin\Debug\net8.0\Rename Method problem.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\bin\Debug\net8.0\Rename Method problem.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\bin\Debug\net8.0\Rename Method problem.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\bin\Debug\net8.0\Rename Method problem.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\Rename Method problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\Rename Method problem.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\Rename Method problem.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\Rename Method problem.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\Rename Method problem.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\refint\Rename Method problem.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\Rename Method problem.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\Rename Method problem.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Rename Method problem\obj\Debug\net8.0\ref\Rename Method problem.dll
