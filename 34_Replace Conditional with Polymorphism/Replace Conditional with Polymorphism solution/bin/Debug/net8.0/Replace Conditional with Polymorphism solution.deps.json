@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Replace Conditional with Polymorphism solution/1.0.0": {
+        "runtime": {
+          "Replace Conditional with Polymorphism solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Replace Conditional with Polymorphism solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
