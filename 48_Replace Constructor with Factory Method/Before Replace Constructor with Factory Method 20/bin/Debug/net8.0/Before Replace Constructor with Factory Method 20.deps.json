@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Before Replace Constructor with Factory Method 20/1.0.0": {
+        "runtime": {
+          "Before Replace Constructor with Factory Method 20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Before Replace Constructor with Factory Method 20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
