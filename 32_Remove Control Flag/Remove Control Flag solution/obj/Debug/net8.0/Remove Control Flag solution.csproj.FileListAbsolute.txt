@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\bin\Debug\net8.0\Remove Control Flag solution.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\bin\Debug\net8.0\Remove Control Flag solution.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\bin\Debug\net8.0\Remove Control Flag solution.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\bin\Debug\net8.0\Remove Control Flag solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\bin\Debug\net8.0\Remove Control Flag solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\Remove Control Flag solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\Remove Control Flag solution.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\Remove Control Flag solution.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\Remove Control Flag solution.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\Remove Control Flag solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\refint\Remove Control Flag solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\Remove Control Flag solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\Remove Control Flag solution.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Control Flag solution\obj\Debug\net8.0\ref\Remove Control Flag solution.dll
