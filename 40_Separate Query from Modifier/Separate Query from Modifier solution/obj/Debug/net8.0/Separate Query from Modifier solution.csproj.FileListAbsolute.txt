@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\bin\Debug\net8.0\Separate Query from Modifier solution.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\bin\Debug\net8.0\Separate Query from Modifier solution.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\bin\Debug\net8.0\Separate Query from Modifier solution.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\bin\Debug\net8.0\Separate Query from Modifier solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\bin\Debug\net8.0\Separate Query from Modifier solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\Separate Query from Modifier solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\Separate Query from Modifier solution.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\Separate Query from Modifier solution.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\Separate Query from Modifier solution.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\Separate Query from Modifier solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\refint\Separate Query from Modifier solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\Separate Query from Modifier solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\Separate Query from Modifier solution.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Separate Query from Modifier solution\obj\Debug\net8.0\ref\Separate Query from Modifier solution.dll

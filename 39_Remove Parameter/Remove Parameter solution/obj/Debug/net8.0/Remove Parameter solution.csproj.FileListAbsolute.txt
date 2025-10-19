@@ -1,0 +1,4 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Parameter solution\obj\Debug\net8.0\Remove Parameter solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Parameter solution\obj\Debug\net8.0\Remove Parameter solution.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Parameter solution\obj\Debug\net8.0\Remove Parameter solution.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Remove Parameter solution\obj\Debug\net8.0\Remove Parameter solution.csproj.CoreCompileInputs.cache
